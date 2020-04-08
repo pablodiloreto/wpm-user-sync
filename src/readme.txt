@@ -16,9 +16,9 @@ Welcome to the best free user synchronization solution for WordPress Multisite.
 
 == Installation ==
 
-The normal plugin install process applies, that is search for 'Hola Simpsons' from your plugin screen or via the manual method:
+The normal plugin install process applies, that is search for 'WPM User Sync' from your plugin screen or via the manual method:
 
-1. Upload the 'Hola Simpsons' folder into your '/wp-content/plugins/' directory.
+1. Upload the 'WPM User Sync' folder into your '/wp-content/plugins/' directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 That's it! 'WPM User Sync' will appear in your dashboard at Network & Site level
