@@ -4,7 +4,7 @@ Donate link: https://pablodiloreto.com/
 Tags: multisite, wpm user sync, user sync, sync, multisite user
 Requires at least: 5.1.2
 Tested up to: 5.4
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,10 +90,17 @@ If you have been impressed with this plugin and would like to somehow show some 
 
 == Upgrade Notice ==
 
+= 1.1 =
+Bug fixes.
+
 = 1.0 =
 First release. Check help for all features.
 
 == Changelog ==
+
+= 1.1 (2020-04-11) =
+* Bug fixed: user sync when end-user register in the network.
+* Performance improved adding some conditional during triggers.
 
 = 1.0 (2020-04-05) =
 * Initial source code.
