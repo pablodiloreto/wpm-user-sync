@@ -56,7 +56,7 @@ add_action( 'wpmus_site_home_contents', 'wpmus_site_home_welcome_content' );
 add_action( 'wpmus_site_home_contents', 'wpmus_site_home_concepts_content' );
 add_action( 'wpmus_site_home_contents', 'wpmus_site_home_about_content' );
 
-// Triggers
+// Triggers fro actions
 if ($wpmus_newSiteSync == 'yes') {
     add_action( 'wpmu_new_blog', 'wpmus_sync_newsite' );
 }
