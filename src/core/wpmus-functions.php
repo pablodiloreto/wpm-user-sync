@@ -102,8 +102,6 @@
     function wpmus_maybesync_newuser( $user_login ) {
         global $wpmus_newUserSync;
 
-        echo "maybe";
-
         if ($wpmus_newUserSync == 'yes') {
 
             if ( function_exists( 'get_user_by' ) )
