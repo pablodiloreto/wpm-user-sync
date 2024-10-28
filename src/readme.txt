@@ -101,7 +101,7 @@ First release. Check help for all features.
 
 == Changelog ==
 
-= 1.1 (2024-10-27) =
+= 1.2 (2024-10-27) =
 * Bug fixed: Fix AJAX responses: function wpmus_maybesync_newuser echo "maybe"
 
 = 1.1 (2020-04-11) =
