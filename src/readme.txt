@@ -3,8 +3,8 @@ Contributors: pablodiloreto
 Donate link: https://pablodiloreto.com/
 Tags: multisite, wpm user sync, user sync, sync, multisite user
 Requires at least: 5.1.2
-Tested up to: 5.4
-Stable tag: 1.1
+Tested up to: 6.6.2
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -90,6 +90,9 @@ If you have been impressed with this plugin and would like to somehow show some 
 
 == Upgrade Notice ==
 
+= 1.2 =
+Bug fixes.
+
 = 1.1 =
 Bug fixes.
 
@@ -97,6 +100,9 @@ Bug fixes.
 First release. Check help for all features.
 
 == Changelog ==
+
+= 1.1 (2024-10-27) =
+* Bug fixed: Fix AJAX responses: function wpmus_maybesync_newuser echo "maybe"
 
 = 1.1 (2020-04-11) =
 * Bug fixed: user sync when end-user register in the network.
