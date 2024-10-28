@@ -173,8 +173,8 @@
         $args = array( 'blog_id' => 0 );
         $users = get_users( $args );
 
-        $listSites = sanitize_text_field($_POST['listSites']);
-        
+        $listSites = isset($_POST['listSites']) ? array_map('sanitize_text_field', $_POST['listSites']) : array();
+
         if(! empty($listSites)) {
 
 

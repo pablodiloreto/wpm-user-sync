@@ -90,7 +90,13 @@ If you have been impressed with this plugin and would like to somehow show some 
 
 == Upgrade Notice ==
 
+= 1.3 =
+Bug fixes.
+
 = 1.2 =
+Bug fixes.
+
+= 1.1 =
 Bug fixes.
 
 = 1.1 =
@@ -101,8 +107,11 @@ First release. Check help for all features.
 
 == Changelog ==
 
+= 1.3 (2024-10-28) =
+* Bug fixed: "Sync did not happen. You're must select at least one site!".
+
 = 1.2 (2024-10-27) =
-* Bug fixed: Fix AJAX responses: function wpmus_maybesync_newuser echo "maybe"
+* Bug fixed: AJAX responses - function wpmus_maybesync_newuser echo "maybe".
 
 = 1.1 (2020-04-11) =
 * Bug fixed: user sync when end-user register in the network.
